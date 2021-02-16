@@ -46,4 +46,8 @@ export default {
   },
 
   buildDir: 'dist',
+
+  generate: {
+    fallback: true,
+  },
 }
